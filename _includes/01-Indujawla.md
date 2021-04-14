@@ -1,2 +1,3 @@
-# hello 
 title: Welcome to my portfolio!
+theme: jekyll-theme-primer 
+theme: jekyll-theme-cayman 
